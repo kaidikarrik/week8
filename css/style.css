@@ -55,6 +55,7 @@ header h1 {
 .my_image img {
     max-width: 100%;
     height: auto;
+    transition: opacity 0.5s ease-in-out;
 }
 .contact_images li {
     display: flex;
